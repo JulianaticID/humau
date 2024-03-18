@@ -1,6 +1,6 @@
 
 
-# Default location for output (needs to match output_dir's value found in nanoc.yaml)
+# Default location for output (needs to match output_dir's value+1  found in nanoc.yaml)
 output/
 
 # Temporary file directory
