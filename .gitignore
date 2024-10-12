@@ -1,7 +1,5 @@
-
-
 # Default location in type(needs to output_dir's value+2  found in nanoc.yaml)
-output/
+output/in the mix
 
 # Temporary file directory
 tmp/nanoc/
